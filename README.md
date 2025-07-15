@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy DesarrolladorPrimary (devsarys)
 
-<!--
-**DesarrolladorPrimary/DesarrolladorPrimary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante en desarrollo de software
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo y explorando el mundo del desarrollo.  
+Me apasiona el orden, la dedicación y el aprendizaje constante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Habilidades**  
+En aprendizaje: programación, resolución de problemas, trabajo en equipo.
+
+---
+
+_Siempre listo para ayudar y mejorar._
